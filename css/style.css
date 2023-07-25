@@ -137,8 +137,9 @@ main {
    background-color: black;
    color: white;
    border-radius: 3px;
-   padding: 9px;
-   width: 155px;
+   padding: 8px;
+   
+   width: 160px;
    border: none;
    font-weight: 500;
 }
@@ -151,7 +152,7 @@ main {
 .main1-item2-button2 {
    background-color: #ffc107;
    font-size: 16px;
-   padding: 9px;
+   padding: 7px;
    width: 90px;
    border: none;
    border-radius: 3px;
